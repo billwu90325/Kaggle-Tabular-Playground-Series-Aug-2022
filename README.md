@@ -1,4 +1,4 @@
-# 2022 Fall ML Final Project
+# Kaggle - Tabular Playground Series - Aug 2022
 
 To reproduce my submission without retraining, do the following steps:  
     1. Install evironment with "requirements.txt"  
